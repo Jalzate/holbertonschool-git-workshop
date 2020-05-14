@@ -1,4 +1,6 @@
 Third file content
+<<<<<<< HEAD
 Another line from peerB
+=======
 Another line with peerA changes
-Another line from PeerB =P
+>>>>>>> d9933e718fd1978f39f6c8e12bae7dbe12cc86f3
